@@ -1,6 +1,6 @@
 {
   "name": "react-native-laravel-pagination",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Laravel pagination component for React Native",
   "main": "index.js",
   "keywords": [
