@@ -15,5 +15,9 @@
     "react-native": "^0.57.2"
   },
   "author": "seri (seriputera2@gmail.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iserifith/react-native-laravel-pagination.git"
+  }
 }
