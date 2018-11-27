@@ -1,0 +1,19 @@
+{
+  "name": "react-native-laravel-pagination",
+  "version": "1.0.0",
+  "description": "Laravel pagination component for React Native",
+  "main": "index.js",
+  "keywords": [
+    "laravel",
+    "react-native",
+    "paginate",
+    "react"
+  ],
+  "peerDependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.5.0",
+    "react-native": "^0.57.2"
+  },
+  "author": "seri (seriputera2@gmail.com)",
+  "license": "MIT"
+}
